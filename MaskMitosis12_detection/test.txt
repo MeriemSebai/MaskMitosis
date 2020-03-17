@@ -1,0 +1,15 @@
+mitosis12_test/A00_v2/A00_00
+mitosis12_test/A00_v2/A00_08
+mitosis12_test/A01_v2/A01_04
+mitosis12_test/A01_v2/A01_06
+mitosis12_test/A01_v2/A01_09
+mitosis12_test/A02_v2/A02_00
+mitosis12_test/A02_v2/A02_01
+mitosis12_test/A02_v2/A02_03
+mitosis12_test/A02_v2/A02_07
+mitosis12_test/A03_v2/A03_00
+mitosis12_test/A03_v2/A03_01
+mitosis12_test/A03_v2/A03_04
+mitosis12_test/A04_v2/A04_03
+mitosis12_test/A04_v2/A04_07
+mitosis12_test/A04_v2/A04_09
