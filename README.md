@@ -11,4 +11,4 @@ Installation:
 2. Install dependencies: pip3 install -r requirements.txt
 3. Run setup from the repository root directory: python3 setup.py install
 
-The pretrained MaskMitosis12 and MaskMitosis14 models are not available in current due to COVID-19 and we will keep updating this repo.
+The pretrained MaskMitosis12 and MaskMitosis14 models are not available in current due to COVID-19 pneumonia. We will keep updating this repo.
