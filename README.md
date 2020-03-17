@@ -8,4 +8,7 @@ Requirements: Software:
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages are required.
 Installation:
 1. Clone the repository.
-2. Install dependencies : pip3 install -r requirements.txt
+2. Install dependencies: pip3 install -r requirements.txt
+3. Run setup from the repository root directory: python3 setup.py install
+
+The pretrained MaskMitosis12 and MaskMitosis14 models are not available in current due to COVID-19 and we will keep updating this repo.
