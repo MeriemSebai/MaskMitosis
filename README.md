@@ -25,11 +25,11 @@ publisher={Springer}
 }
 ```
 # Content
-1. [Requirements: Hardware](#-Requirements:-Hardware)
+1. [Requirements: Hardware](#requirements)
 2. [Requirements: Software](https://link.springer.com/article/10.1007/s11517-020-02175-z)
 3. [Installation](https://link.springer.com/article/10.1007/s11517-020-02175-z)
 
-# Requirements: Hardware
+# Requirements
 In our experiments, we used a Nvidia Quadro P5000 GPU with 16 GB of memory.
 
 # Requirements: Software
