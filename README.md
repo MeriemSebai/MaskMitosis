@@ -1,5 +1,5 @@
 # MaskMitosis
-Codes for our Medical & Biological Engineering & Computing paper "MaskMitosis: a deep learning framework for fully supervised, weakly supervised, and unsupervised mitosis detection in histopathology images". Please see the paper for more details (https://link.springer.com/article/10.1007/s11517-020-02175-z).
+Codes for our Medical & Biological Engineering & Computing paper "MaskMitosis: a deep learning framework for fully supervised, weakly supervised, and unsupervised mitosis detection in histopathology images". Please see the [paper](https://link.springer.com/article/10.1007/s11517-020-02175-z) for more details.
 
 # System Overview 
 ![GitHub Logo](/images/GA.jpg)
@@ -25,7 +25,7 @@ publisher={Springer}
 }
 ```
 # Content
-Our mitosis detection and instance segmentation model is based on Mask RCNN model. We use the Matterport Inc Mask-RCNN implementation. For more details see [GitHub](https://github.com/matterport/Mask_RCNN)
+Our mitosis detection and instance segmentation model is based on Mask RCNN model. We use the Matterport Inc implementation of Mask-RCNN. For more details see [https://github.com/matterport/Mask_RCNN]
 
 # Requirements: Hardware: 
 In our experiments, we used a Nvidia Quadro P5000 GPU with 16 GB of memory.
