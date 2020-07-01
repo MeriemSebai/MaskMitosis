@@ -25,15 +25,18 @@ publisher={Springer}
 }
 ```
 # Content
-Our mitosis detection and instance segmentation model is based on Mask RCNN model. We use the Matterport Inc implementation of Mask-RCNN. For more details see [https://github.com/matterport/Mask_RCNN]
+1. [Requirements: Hardware](https://link.springer.com/article/10.1007/s11517-020-02175-z)
+2. [Requirements: Software](https://link.springer.com/article/10.1007/s11517-020-02175-z)
+3. [Installation](https://link.springer.com/article/10.1007/s11517-020-02175-z)
 
-# Requirements: Hardware: 
+# Requirements: Hardware
 In our experiments, we used a Nvidia Quadro P5000 GPU with 16 GB of memory.
 
-# Requirements: Software: 
+# Requirements: Software
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages are required.
 
-# Installation:
+# Installation
+Our mitosis detection and instance segmentation model is based on Mask RCNN model. We use the Matterport Inc implementation of Mask-RCNN. For more details see [https://github.com/matterport/Mask_RCNN]
 1. Clone the repository.
 2. Install dependencies: pip3 install -r requirements.txt
 3. Run setup from the repository root directory: python3 setup.py install
