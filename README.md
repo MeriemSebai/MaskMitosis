@@ -2,8 +2,7 @@
 Codes for our Medical & Biological Engineering & Computing paper "MaskMitosis: a deep learning framework for fully supervised, weakly supervised, and unsupervised mitosis detection in histopathology images". Please see the paper for more details (https://link.springer.com/article/10.1007/s11517-020-02175-z).
 
 # System Overview 
-
-
+![GitHub Logo](/images/GA.jpg)
 
 # Results
 | Method                            | Evaluation set                   | F-score |
