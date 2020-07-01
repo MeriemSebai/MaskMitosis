@@ -25,14 +25,14 @@ publisher={Springer}
 }
 ```
 # Content
-1. [Requirements: Hardware](#requirements)
-2. [Requirements: Software](https://link.springer.com/article/10.1007/s11517-020-02175-z)
-3. [Installation](https://link.springer.com/article/10.1007/s11517-020-02175-z)
+1. [Hardware Requirements](#hardware-requirements)
+2. [Software Requirements](#software-requirements)
+3. [Installation](#installation)
 
-# Requirements
+# Hardware Requirements 
 In our experiments, we used a Nvidia Quadro P5000 GPU with 16 GB of memory.
 
-# Requirements: Software
+# Software Requirements 
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages are required.
 
 # Installation
