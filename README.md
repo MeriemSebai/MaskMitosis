@@ -25,7 +25,7 @@ publisher={Springer}
 }
 ```
 # Content
-1. [Requirements: Hardware](# Requirements: Hardware)
+1. [Requirements: Hardware](#-Requirements:-Hardware)
 2. [Requirements: Software](https://link.springer.com/article/10.1007/s11517-020-02175-z)
 3. [Installation](https://link.springer.com/article/10.1007/s11517-020-02175-z)
 
