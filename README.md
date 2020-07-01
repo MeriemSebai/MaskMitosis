@@ -5,13 +5,13 @@ Codes for our Medical & Biological Engineering & Computing paper "MaskMitosis: a
 ![GitHub Logo](/images/GA.jpg)
 
 # Results
-| Method                            | Evaluation set                   | F-score |
-| ----------------------------------|:--------------------------------:| ------: |
-| MaskMitosis12                     | 2012 ICPR MITOSIS test set       | 0.863   |
-| MaskMitosis14 (weakly supervised) | 2014 ICPR MITOSIS validation set | 0.608   | 
-| MaskMitosis14 (weakly supervised) | 2014 ICPR MITOSIS test set       | 0.475   | 
-| MaskMitosis14 (unsupervised)      | 2014 ICPR MITOSIS validation set | 0.504   | 
-| MaskMitosis14 (unsupervised)      | 2014 ICPR MITOSIS test set       | 0.395   | 
+| Method                            | Evaluation set                   | *F*-score |
+| ----------------------------------|:--------------------------------:| --------: |
+| MaskMitosis12                     | 2012 ICPR MITOSIS test set       | 0.863     |
+| MaskMitosis14 (weakly supervised) | 2014 ICPR MITOSIS validation set | 0.608     | 
+| MaskMitosis14 (weakly supervised) | 2014 ICPR MITOSIS test set       | 0.475     | 
+| MaskMitosis14 (unsupervised)      | 2014 ICPR MITOSIS validation set | 0.504     | 
+| MaskMitosis14 (unsupervised)      | 2014 ICPR MITOSIS test set       | 0.395     | 
 
 # Citing MaskMitosis
 If you find MaskMitosis useful in your research, please consider citing:
