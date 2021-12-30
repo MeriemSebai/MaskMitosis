@@ -41,4 +41,4 @@ Our mitosis detection and instance segmentation model is based on Mask RCNN mode
 2. Install dependencies: pip3 install -r requirements.txt
 3. Run setup from the repository root directory: python3 setup.py install
 
-The pretrained MaskMitosis12 and MaskMitosis14 models are not available in current due to COVID-19 pneumonia. We will keep updating this repo.
+The trained MaskMitosis12 and MaskMitosis14 models are available in [MaskMitosis12 model](https://drive.google.com/file/d/1hsb-SoTd4hImXu921F67XolJQD_6t13C/view?usp=sharing) and [MaskMitosis14 model](https://drive.google.com/file/d/1eGi8LM3Vgp_19wwcPOB1cS0YMNbSlKEn/view?usp=sharing), respectively.
