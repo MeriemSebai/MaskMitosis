@@ -12,7 +12,7 @@ train __ __ __ imagePatchName __ __ __ images __ __ __ imagePatchName.jpg
                                              |__ __ __ __ imagePatchName_n.jpg   
 
 To test MaskMitosis on the 2014 MITOSIS dataset:
-python ./mitosis.py detect --dataset=/path/to/dataset --subset=(test/validation) --weights=/path/to/last/weights.h5
+python ./mitosis.py detect --dataset=/path/to/dataset --subset=(test/validation) --weights=/path/to/last/mitosis2014_weights.h5
 
 The validation set 'validation' and the test set 'test' should have the following structure:
 (validation/test) __ __ __ imageName __ __ __ images __ __ __ imageName.tiff
