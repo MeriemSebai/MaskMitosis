@@ -13,7 +13,7 @@ The training set 'train' should have the following structure:
 
 Test:
 1. To test MaskMitosis on the 2012 MITOSIS dataset
-python ./mitosis.py detect --dataset=/path/to/dataset --subset=test --weights=/path/to/last/weights.h5
+python ./mitosis.py detect --dataset=/path/to/dataset --subset=test --weights=/path/to/last/mitosis2012_weights.h5
 
 The test set 'test' should have the following structure:
     test __ __ __ imageName __ __ __ images __ __ __ imageName.bmp
